@@ -1,0 +1,87 @@
+/*---------------------
+  Match Section
+-----------------------*/
+
+.match-section {
+	padding: 70px 0 60px;
+}
+
+.ms-content h4 {
+	color: #ffffff;
+	font-weight: 500;
+	margin-bottom: 25px;
+}
+
+.ms-content .mc-table {
+	margin-bottom: 10px;
+}
+
+.ms-content .mc-table table {
+	width: 100%;
+}
+
+.ms-content .mc-table table tr {
+	background: rgba(21, 22, 24, 0.9);
+	margin-bottom: 10px;
+}
+
+.ms-content .mc-table table tr td {
+	padding: 16px 0;
+	width: 200px;
+}
+
+.ms-content .mc-table table tr td img {
+	height: 30px;
+	width: 50px;
+}
+
+.ms-content .mc-table table tr td h6 {
+	color: #ffffff;
+	display: inline-block;
+}
+
+.ms-content .mc-table table tr td.left-team {
+	padding-left: 40px;
+}
+
+.ms-content .mc-table table tr td.left-team img {
+	float: left;
+	margin-right: 10px;
+}
+
+.ms-content .mc-table table tr td.left-team h6 {
+	overflow: hidden;
+	line-height: 30px;
+}
+
+.ms-content .mc-table table tr td.right-team {
+	text-align: right;
+	padding-right: 40px;
+}
+
+.ms-content .mc-table table tr td.right-team img {
+	float: right;
+	margin-left: 10px;
+}
+
+.ms-content .mc-table table tr td.right-team h6 {
+	float: right;
+	line-height: 30px;
+}
+
+.ms-content .mc-table table tr td.mt-content {
+	width: 150px;
+	text-align: center;
+}
+
+.ms-content .mc-table table tr td.mt-content .mc-op {
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.ms-content .mc-table table tr td.mt-content h4 {
+	color: #ffffff;
+	font-weight: 700;
+	margin-top: 14px;
+	margin-bottom: 12px;
+}
